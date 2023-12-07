@@ -1,0 +1,7 @@
+{
+	"name": "ASMDEF3",
+	"references": [
+		"ASMDEF1",
+		"ASMDEF2"
+	]
+}

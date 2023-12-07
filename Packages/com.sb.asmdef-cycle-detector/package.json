@@ -1,0 +1,8 @@
+{
+  "name": "com.sb.asmdef-cycle-detector",
+  "version": "1.0.0",
+  "displayName": "SB Asmdef Cycle Detector",
+  "description": "Displaying Cyclic Dependencies of ASMDEF",
+  "unity": "2020.1",
+  "dependencies": {}
+}

@@ -1,0 +1,6 @@
+{
+	"name": "ASMDEF2",
+	"references": [
+		"ASMDEF0"
+	]
+}
